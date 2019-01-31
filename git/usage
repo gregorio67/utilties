@@ -1,0 +1,14 @@
+1. git init D:\21.Source\workspace
+
+git config --global user.name gregory67
+git config --global user.email kkimdoy@gmail.com
+	
+2. git add .
+
+3. git commit -m "First Commit"
+
+4. create repository in git hub
+
+5. git remote add origin https://github.com/gregorio67/agent.git
+
+6. git push origin master(git commit 한 후 실제 github에 반영)
